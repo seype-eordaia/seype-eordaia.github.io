@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/%CE%AD%CE%BD%CE%B1-%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B1-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC-%CF%80%CE%BF%CF%85-%CF%87%CE%AC%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CF%83%CF%84%CE%B1-%CF%84%CF%81%CE%AD%CE%BD%CE%B1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/%CE%AD%CE%BD%CE%B1-%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B1-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC-%CF%80%CE%BF%CF%85-%CF%87%CE%AC%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD-%CF%83%CF%84%CE%B1-%CF%84%CF%81%CE%AD%CE%BD%CE%B1/</guid>
+      <description>&lt;p&gt;Την Κυριακή 30 Μαρτίου ο Σύλλογος Φοιτητών Εργοθεραπείας ΠΔΜ και το Συνδικάτο Εμποροϋπαλλήλων Εορδαίας (ΣΕΥΠΕ) διοργανώνουν συναυλία με τίτλο: «Ένα τραγούδι για τα παιδιά που χάθηκαν στα τρένα… Θα φτάσουμε στο τέρμα! Ή τα κέρδη τους ή οι ζωές μας» στις 6 μ.μ στο Αμφιθέατρο του Πάρκου Έκτακτων Αναγκών&lt;/p&gt;&#xA;&lt;p&gt;Μουσικοί και συγκροτήματα θα ενώσουν τις φωνές τους, ερμηνεύοντας τραγούδια αφιερωμένα στη μνήμη των θυμάτων και στην ανάγκη για αλλαγή. Μέσα από τη μουσική, η συναυλία επιδιώκει να κρατήσει ζωντανή τη συζήτηση για την ασφάλεια των μεταφορών και την ευθύνη όλων μας για ένα καλύτερο αύριο.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
